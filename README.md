@@ -20,12 +20,12 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Open your terminal.
 2. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/Ganiramadhan/react-groq-ai.git
+   git clone https://github.com/SHAJAR5110/Chatbot-in-react
    ```
 
 3. Navigate to the project directory:
    ```bash
-    cd react-groq-ai 
+    cd chatbot 
    ```
 
 4. Install Dependencies:
